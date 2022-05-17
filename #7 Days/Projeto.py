@@ -12,7 +12,7 @@ word_length = len(chosen_word)
 
 display = []
 for _ in range(word_length):
-    display += "_"
+    display += "_" 
 
 while not game_is_finished:
     guess = input("Guess a letter: ").lower()
