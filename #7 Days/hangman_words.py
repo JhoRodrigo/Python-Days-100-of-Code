@@ -9,7 +9,7 @@ word_list = [
 'axiom', 
 'azure', 
 'bagpipes', 
-'bandwagon', 
+'bandwagon',
 'banjo', 
 'bayou', 
 'beekeeper', 
