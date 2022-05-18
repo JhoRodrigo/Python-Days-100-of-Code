@@ -210,6 +210,6 @@ word_list = [
 'zigzagging', 
 'zilch', 
 'zipper', 
-'zodiac',
+'zodiac', 
 'zombie', 
 ]
