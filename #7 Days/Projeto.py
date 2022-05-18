@@ -33,7 +33,7 @@ while not game_is_finished:
         print(f"You guessed {guess}, that's not in the word. You lose a life.")
         lives -= 1
         if lives == 0:
-            game_is_finished = True
+            game_is_finished = True 
             print("You lose.")
     
     if not "_" in display:
